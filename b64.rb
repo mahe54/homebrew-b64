@@ -1,4 +1,4 @@
-class b64 < Formula
+class B64 < Formula
   desc "b64 is a base64 encoder/decoder"
   homepage "https://github.com/mahe54/b64"
 
